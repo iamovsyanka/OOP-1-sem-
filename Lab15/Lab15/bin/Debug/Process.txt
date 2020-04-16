@@ -1,0 +1,26 @@
+Id: 13360
+Process name: audiodg
+Start at: Вс 08.12.19 20:56:27
+Priority: 8
+Memory: 4294967295
+
+Id: 1720
+Process name: SettingSyncHost
+Start at: Сб 30.11.19 21:36:09
+Priority: 6
+Memory: 4294967295
+
+Id: 14220
+Process name: svchost
+Start at: Сб 30.11.19 13:53:07
+Priority: 8
+Memory: 4294967295
+
+Id: 13788
+Process name: SearchUI
+Start at: Сб 30.11.19 13:53:18
+Priority: 8
+Memory: 4294967295
+
+Id: 856
+Process name: lsass

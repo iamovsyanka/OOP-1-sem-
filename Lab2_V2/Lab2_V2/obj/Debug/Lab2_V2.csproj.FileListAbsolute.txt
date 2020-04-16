@@ -1,0 +1,7 @@
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\bin\Debug\Lab2_V2.exe.config
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\bin\Debug\Lab2_V2.exe
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\bin\Debug\Lab2_V2.pdb
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\obj\Debug\Lab2_V2.csprojAssemblyReference.cache
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\obj\Debug\Lab2_V2.csproj.CoreCompileInputs.cache
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\obj\Debug\Lab2_V2.exe
+D:\2 курс\3 семестр\ООП\Лабы\Lab2_V2\Lab2_V2\obj\Debug\Lab2_V2.pdb

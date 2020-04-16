@@ -1,0 +1,13 @@
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\2 курс\3 семестр\ООП\Лабы\Lab8\Lab8\obj\Debug\Lab8.pdb
+E:\Лабы\Lab8\Lab8\bin\Debug\Lab8.exe.config
+E:\Лабы\Lab8\Lab8\bin\Debug\Lab8.exe
+E:\Лабы\Lab8\Lab8\bin\Debug\Lab8.pdb
+E:\Лабы\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+E:\Лабы\Lab8\Lab8\obj\Debug\Lab8.exe
+E:\Лабы\Lab8\Lab8\obj\Debug\Lab8.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <Name>Николас</Name>
+    <Surname>Спаркс</Surname>
+    <CountPublications>18</CountPublications>
+  </Author>
+  <Author>
+    <Name>Шарлотта</Name>
+    <Surname>Бронте</Surname>
+    <CountPublications>7</CountPublications>
+  </Author>
+</ArrayOfAuthor>
